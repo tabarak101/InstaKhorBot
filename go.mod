@@ -1,6 +1,6 @@
-module github.com/Michele0303/InstagramWatcherBot
+module github.com/tabarak101/InstaKhorBot
 
-go 1.20
+go 1.24
 
 require (
 	github.com/go-telegram-bot-api/telegram-bot-api v4.6.4+incompatible
