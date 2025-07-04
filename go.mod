@@ -1,6 +1,6 @@
 module github.com/tabarak101/InstaKhorBot
 
-go 1.24
+go 1.20
 
 require (
 	github.com/go-telegram-bot-api/telegram-bot-api v4.6.4+incompatible
@@ -22,9 +22,7 @@ require (
 	github.com/onsi/ginkgo/v2 v2.2.0 // indirect
 	github.com/pelletier/go-toml/v2 v2.0.6 // indirect
 	github.com/quic-go/qpack v0.4.0 // indirect
-	github.com/quic-go/qtls-go1-18 v0.2.0 // indirect
-	github.com/quic-go/qtls-go1-19 v0.2.0 // indirect
-	github.com/quic-go/qtls-go1-20 v0.1.0 // indirect
+	github.com/quic-go/qtls-go1-20 v0.2.0 // indirect
 	github.com/quic-go/quic-go v0.37.0 // indirect
 	github.com/spf13/afero v1.9.3 // indirect
 	github.com/spf13/cast v1.5.0 // indirect
